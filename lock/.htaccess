@@ -1,0 +1,5 @@
+<Limit POST PUT GET>
+	order deny,allow
+	deny from all
+	allow from ::1
+</Limit>

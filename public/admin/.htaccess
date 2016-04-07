@@ -1,0 +1,4 @@
+AuthName "Administrators Only"
+AuthType Basic
+AuthUserFile C:/xampp/htdocs/lynda/lock/.htpasswd
+require valid-user
